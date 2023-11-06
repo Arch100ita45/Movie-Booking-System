@@ -1,0 +1,9 @@
+
+Ticket Details
+
+Ticket Number: 5
+Ticket Price: 5
+Ticket Type: Adult
+Ticket Time: 13:00
+Ticket Block: Left Block
+____________________________________________________________________________________
