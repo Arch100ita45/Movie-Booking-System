@@ -1,9 +1,0 @@
-
-Ticket Details
-
-Ticket Number: 0
-Ticket Price: 5
-Ticket Type: Child
-Ticket Time: 17:00
-Ticket Block: Middle Block
-____________________________________________________________________________________
